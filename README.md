@@ -34,6 +34,7 @@ Contribuições são bem-vindas! Fique à vontade para abrir issues, sugerir mel
 ## 📫 Contato
 
 Feito com 💙 por Luis Felipe, Entre em contato!
+![link do Instagram](https://instagram.com/lfelipe9535.dev)
 
 ---
 
@@ -55,7 +56,7 @@ node index.js
 
 ## 📸 Demonstração do Projeto
 
-![Locadora rodando no Terminal CMD](image.png)
+![Locadora rodando no Terminal CMD](https://i.imgur.com/eJrB6qu.png)
 
 ## 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
