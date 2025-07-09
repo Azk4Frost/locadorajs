@@ -34,7 +34,7 @@ Contribuições são bem-vindas! Fique à vontade para abrir issues, sugerir mel
 ## 📫 Contato
 
 Feito com 💙 por Luis Felipe, Entre em contato!
-![link do Instagram](https://instagram.com/lfelipe9535.dev)
+[link do Instagram](https://instagram.com/lfelipe9535.dev)
 
 ---
 
